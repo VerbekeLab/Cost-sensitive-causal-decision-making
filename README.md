@@ -18,16 +18,10 @@ This repository is organised as follows:
 ```
 
 ## Data usage
-The data is available for KU Leuven affiliates through this link:
-https://kuleuven.sharepoint.com/:f:/s/T0002626/Eo9w2XgXn4lBtorDcXFVKCgBupBzLasVowsbc2IL2RCQgQ?e=n1eUUF
-and should be structured as follows:
-```bash
-|- datasets/
-    |- bank.csv
-    |– criteo/
-        |- criteo-uplift-v2.csv
-        |- folds.sav
-```
+Using this repository, the main file can only run on the synthetic data. For more information on the experiments with the ‘Bank’, ‘Criteo’, and ‘Hillstrom’ datasets, please contact:
+jente.vanbelle@kuleuven.be
+or
+wouter.verbeke@kuleuven.be
 
 ## Installing
 We have provided a `requirements.txt` file:
